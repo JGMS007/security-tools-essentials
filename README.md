@@ -9,46 +9,43 @@ This repository compiles essential tools for threat analysis, Open Source Intell
 
 ## 🔍 Threat Analysis & Reputation
 | Tool | Description | Use Cases |
-
+| :--- | :--- | :--- |
 | **VirusTotal** | Multi-engine scanner for files, URLs, and IPs. | Checking suspicious email attachments or links. |
-
 | **ScamDoc / Gridinsoft** | Domain reputation analysis and risk scoring. | Evaluating new e-commerce sites or suspicious emails. |
-
 | **Whois & SecurityTrails** | Domain registration and DNS history lookup. | Identifying a domain's creation date and owner. |
-
 | **Have I Been Pwned** | Credential breach database. | Checking if a corporate or personal email has been exposed. |
 
 ---
 
 ## 🌐 Open Source Intelligence (OSINT)
 | Tool | Description | Use Cases |
-
+| :--- | :--- | :--- |
 | **OSINT Framework** | Interactive mind map of OSINT resources. | Guiding investigations and public data collection. |
-
+| :--- | :--- | :--- |
 | **Shodan** | Search engine for web-exposed devices and ports. | Mapping vulnerable infrastructure assets on the internet. |
-
+| :--- | :--- | :--- |
 | **crt.sh** | SSL/TLS Certificate Transparency logs. | Discovering subdomains linked to an organization. |
-
+| :--- | :--- | :--- |
 | **CyberChef** | Web-based tool for data manipulation and analysis. | Decoding Base64/Hex and analyzing obfuscated scripts. |
 
 ---
 
 ## 🧪 Technical Security & Auditing
 | Tool | Description | Use Cases |
-
+| :--- | :--- | :--- |
 | **Wireshark** | Real-time network protocol analyzer. | Inspect network packets and analyze suspicious traffic. |
-
+| :--- | :--- | :--- |
 | **Burp Suite** | Intercepting proxy and web application auditing tool. | Perform penetration testing (pentesting) on ​​applications. |
-
+| :--- | :--- | :--- |
 | **Nmap** | Command-line network and port scanner. | Discover assets and active services on the network. |
 
 ---
 
 ## 🔐 Digital Hygiene & Personal Protection
 | Tool | Description | Use Cases |
-
+| :--- | :--- | :--- |
 | **Bitwarden** | Open-source password manager. | Create and store strong, unique passwords. |
-
+| :--- | :--- | :--- |
 | **SimpleLogin / AnonAddy** | Email alias generators (forwarders). | Protect your real email address from spam and phishing. |
 
 ---
